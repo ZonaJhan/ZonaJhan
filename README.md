@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Zona's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballway&layout=compact&count_private=true&exclude_repo=dev&theme=graywhite)
+![Zona's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&count_private=true&exclude_repo=dev&theme=graywhite)
 
 
 
