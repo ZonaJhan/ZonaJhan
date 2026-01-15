@@ -1,13 +1,13 @@
 ### Hi there 👋
 
+![Zona's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&count_private=true&exclude_repo=dev&theme=dracula)
 
-![Zona's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&count_private=true&exclude_repo=dev&theme=graywhite)
 
 
 
 [<img src="https://img.shields.io/badge/Email-vul329u%40gmail.com-important">](mailto:vul329u@gmail.com)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/zona)
+
 
 
 
