@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Zona's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&count_private=true&exclude_repo=dev&theme=dracula)
+![Zona's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&count_private=true&exclude_repo=dev&theme=graywhite)
 
 
 
