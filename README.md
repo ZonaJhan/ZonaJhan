@@ -16,7 +16,7 @@
 </p>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&theme=dark&hide_border=false&v=3" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact)
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ZonaJhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
