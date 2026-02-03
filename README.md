@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact)
 
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&cache_seconds=1800" alt="Top Langs" />
 
 [<img src="https://img.shields.io/badge/Email-vul329u%40gmail.com-important">](mailto:vul329u@gmail.com)
 
