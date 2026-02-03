@@ -10,15 +10,14 @@
 
 <br/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZonaJhan&theme=dark&hide_border=false&v=3" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ZonaJhan&theme=dark&hide_border=false&v=3" height="170" />
-</p>
+
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&theme=dark&hide_border=false&v=3" />
 
 
-
+![](https://github-readme-stats.vercel.app/api?username=ZonaJhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ZonaJhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
