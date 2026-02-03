@@ -6,16 +6,19 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZonaJhan&theme=react&v=2" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZonaJhan&theme=react&v=3" width="100%" />
 
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZonaJhan&theme=dark&hide_border=false&v=2" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ZonaJhan&theme=dark&hide_border=false&v=2" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZonaJhan&theme=dark&hide_border=false&v=3" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ZonaJhan&theme=dark&hide_border=false&v=3" height="170" />
 </p>
 
-<img src="https://github-readme-stats-git-masterhstl99.vercel.app/api/top-langs/?username=ZonaJhan&theme=dark&hide_border=false&layout=compact&v=2" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&theme=dark&hide_border=false&v=3" />
+
+---
+[![](https://visitcount.itsvg.in/api?id=ZonaJhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZonaJhan&icon=0&color=0)](https://visitcount.itsvg.in)
