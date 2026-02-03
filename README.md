@@ -16,6 +16,9 @@
 </p>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&theme=dark&hide_border=false&v=3" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact)
+
+[<img src="https://img.shields.io/badge/Email-vul329u%40gmail.com-important">](mailto:vul329u@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZonaJhan&icon=0&color=0)](https://visitcount.itsvg.in)
