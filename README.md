@@ -13,8 +13,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ZonaJhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaJhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZonaJhan&layout=compact&theme=dark&hide_border=false&count_private=true&include_all_commits=true&v=4" />
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ZonaJhan&icon=0&color=0)](https://visitcount.itsvg.in)
